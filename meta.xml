@@ -1,0 +1,10 @@
+<meta>
+    <info author="LightScribe" version="1.0" type="script"/>
+    <script src="c_leaderboard.lua" type="client"/>
+    <script src="s_leaderboard.lua" type="server"/>
+	<file src="panel.png" type="client"/>
+	<file src="leaderboard.png" type="client"/>
+	<file src="btn-close.png" type="client"/>
+	<file src="top-killers.png" type="client"/>
+	<file src="memo_arka.png" type="client"/>
+</meta>
